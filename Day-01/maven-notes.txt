@@ -1,0 +1,44 @@
+MAVEN NOTES
+
+What is Maven?
+Maven is a build automation and dependency management tool used mainly for Java projects.
+
+Why Maven is Used:
+- Manages project dependencies
+- Simplifies project build process
+- Maintains project structure
+- Helps in compiling, testing and packaging applications
+
+Important File:
+pom.xml
+- Core configuration file in Maven project
+- Contains dependencies and project details
+
+Standard Maven Project Structure:
+src/main/java      -> Application source code
+src/test/java      -> Test source code
+src/main/resources -> Resource files
+
+Common Maven Commands:
+mvn compile   -> Compiles source code
+mvn test      -> Runs test cases
+mvn clean     -> Deletes target folder
+mvn install   -> Builds and installs project
+mvn package   -> Creates JAR/WAR file
+
+Key Concepts:
+- Dependencies
+- Plugins
+- Build Lifecycle
+- Repository
+
+Types of Maven Repositories:
+1. Local Repository
+2. Central Repository
+3. Remote Repository
+
+Advantages of Maven:
+- Easy dependency management
+- Reduces manual work
+- Standard project structure
+- Easy project build and deployment
