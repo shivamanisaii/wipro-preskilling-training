@@ -1,0 +1,19 @@
+JAVA FUNDAMENTALS NOTES
+
+Primitive Data Types:
+- int
+- float
+- double
+- char
+- boolean
+
+Concepts Covered:
+- Arrays
+- Strings
+- Loops
+- Conditional Statements
+
+Useful Methods:
+length()
+charAt()
+split()
