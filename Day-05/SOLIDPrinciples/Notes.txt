@@ -1,0 +1,16 @@
+SOLID PRINCIPLES
+
+S - Single Responsibility Principle
+A class should have only one responsibility.
+
+O - Open Closed Principle
+Software should be open for extension but closed for modification.
+
+L - Liskov Substitution Principle
+Child class should replace parent class without errors.
+
+I - Interface Segregation Principle
+Do not force classes to implement unnecessary methods.
+
+D - Dependency Inversion Principle
+Depend on abstractions, not concrete classes.

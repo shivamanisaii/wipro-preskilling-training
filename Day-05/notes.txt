@@ -1,0 +1,60 @@
+DAY 05 JAVA NOTES
+
+1. Exception Handling
+- Mechanism to handle runtime errors.
+
+2. Types of Exceptions
+- Checked Exceptions
+- Unchecked Exceptions
+
+3. Try-Catch Block
+- try → risky code
+- catch → handles exception
+
+4. Throw Keyword
+- Used to manually throw exception.
+
+5. Throws Keyword
+- Declares exception in method signature.
+
+6. Finally Block
+- Always executes.
+
+7. Custom Exceptions
+- User defined exceptions.
+
+8. Multiple Catch Blocks
+- Multiple exceptions handled separately.
+
+9. Try-With-Resources
+- Automatically closes resources.
+
+10. Error Hierarchy
+- Throwable
+  -> Error
+  -> Exception
+
+11. Lambda Expressions
+- Functional programming feature in Java 8.
+
+Syntax:
+(parameter) -> expression
+
+12. Functional Interfaces
+- Interface with single abstract method.
+
+Examples:
+- Consumer
+- Supplier
+- Predicate
+- Function
+
+13. Generics
+- Enables reusable code for multiple data types.
+
+14. SOLID Principles
+S - Single Responsibility Principle
+O - Open Closed Principle
+L - Liskov Substitution Principle
+I - Interface Segregation Principle
+D - Dependency Inversion Principle
