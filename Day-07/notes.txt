@@ -1,0 +1,77 @@
+DAY 07 JAVA NOTES
+
+1. Collections Framework
+- Used to store and manipulate groups of objects.
+
+2. List Interface
+- Ordered collection.
+- Allows duplicates.
+
+Examples:
+- ArrayList
+- LinkedList
+
+3. Set Interface
+- Does not allow duplicates.
+
+Examples:
+- HashSet
+- LinkedHashSet
+
+4. Map Interface
+- Stores key-value pairs.
+
+Examples:
+- HashMap
+- TreeMap
+
+5. Queue Interface
+- Follows FIFO principle.
+
+6. Deque Interface
+- Double ended queue.
+
+7. Stack
+- Follows LIFO principle.
+
+8. Iterator Interface
+- Used to traverse collections.
+
+9. Comparable Interface
+- Used for natural sorting.
+
+10. Comparator Interface
+- Used for custom sorting.
+
+11. Generics
+- Provides type safety.
+
+12. Stream API
+- Processes collections efficiently.
+
+Common Stream Methods:
+- filter()
+- map()
+- count()
+- forEach()
+
+13. Lambda Expressions
+Syntax:
+(parameter) -> expression
+
+14. Functional Interfaces
+- Consumer
+- Supplier
+- Predicate
+- Function
+
+15. Optional Class
+- Avoids NullPointerException.
+
+16. Date and Time API
+- LocalDate
+- LocalTime
+- LocalDateTime
+
+17. Executor Service
+- Manages thread execution.

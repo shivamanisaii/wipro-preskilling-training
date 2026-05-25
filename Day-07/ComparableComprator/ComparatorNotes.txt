@@ -1,0 +1,12 @@
+COMPARABLE VS COMPARATOR
+
+Comparable:
+- Used for natural sorting.
+- compareTo() method.
+
+Comparator:
+- Used for custom sorting.
+- compare() method.
+
+Collections.sort(list);
+Collections.sort(list, comparator);

@@ -1,0 +1,14 @@
+HASHMAP NOTES
+
+- Stores key-value pairs.
+- Keys must be unique.
+- Allows one null key.
+
+Methods:
+put()
+get()
+remove()
+containsKey()
+
+Example:
+HashMap<Integer,String> map = new HashMap<>();

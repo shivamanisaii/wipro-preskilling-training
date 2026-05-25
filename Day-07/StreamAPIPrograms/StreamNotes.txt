@@ -1,0 +1,18 @@
+STREAM API NOTES
+
+filter()
+- Filters elements based on condition.
+
+map()
+- Transforms elements.
+
+count()
+- Counts matching elements.
+
+forEach()
+- Iterates through stream.
+
+Example:
+list.stream()
+.filter(x -> x.startsWith("J"))
+.forEach(System.out::println);
