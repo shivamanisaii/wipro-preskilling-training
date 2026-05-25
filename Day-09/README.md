@@ -12,6 +12,10 @@
 - ThreadLocal
 - wait(), notify(), notifyAll()
 - join() and sleep()
+- Java Concurrency Utilities
+- Thread Safety
+- Concurrent Collections
+- Best Practices for Multithreading
 
 ## Programs Practiced
 - Creating threads using Thread class

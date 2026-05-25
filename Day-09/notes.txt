@@ -46,3 +46,28 @@ DAY 09 JAVA NOTES
 - MIN_PRIORITY = 1
 - NORM_PRIORITY = 5
 - MAX_PRIORITY = 10
+
+15. Java Concurrency Utilities
+- Package: java.util.concurrent
+- Provides advanced threading utilities.
+
+Examples:
+- ExecutorService
+- Executors
+- ConcurrentHashMap
+- Callable
+- Future
+
+16. Thread Safety
+- Prevents data inconsistency during concurrent execution.
+
+Ways to achieve:
+- synchronized
+- locks
+- thread-safe collections
+
+17. Best Practices
+- Avoid shared mutable data
+- Use thread pools
+- Minimize synchronization
+- Prefer ExecutorService over manual thread creation
