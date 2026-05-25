@@ -1,0 +1,73 @@
+JAVA OOPS NOTES
+
+1. Classes and Objects
+- Class is a blueprint for creating objects.
+- Object is an instance of a class.
+
+2. Encapsulation
+- Wrapping variables and methods together into a single unit.
+- Achieved using classes.
+
+3. Inheritance
+- One class acquires properties of another class.
+- Achieved using extends keyword.
+
+Types:
+- Single Inheritance
+- Multilevel Inheritance
+- Hierarchical Inheritance
+
+4. Polymorphism
+- One method behaving differently in different situations.
+
+Types:
+- Method Overloading
+- Method Overriding
+
+5. Method Overloading
+- Same method name with different parameters.
+
+6. Method Overriding
+- Child class provides specific implementation of parent method.
+
+7. Abstraction
+- Hiding implementation details and showing only functionality.
+
+8. Interface
+- Used to achieve abstraction.
+- Supports multiple inheritance.
+
+9. Final Keyword
+- final variable → cannot change value
+- final method → cannot override
+- final class → cannot inherit
+
+10. Garbage Collection
+- JVM automatically removes unused objects.
+
+11. String
+- Immutable sequence of characters.
+
+12. StringBuffer
+- Mutable string object.
+
+13. Optional Class
+- Avoids null pointer exceptions.
+
+14. StringJoiner
+- Used to join multiple strings.
+
+15. Packages
+- Used to organize Java classes.
+
+Package Syntax:
+package packageName;
+
+Import Syntax:
+import java.util.Scanner;
+
+16. Composition
+- One class contains another class object.
+
+17. Aggregation
+- Weak relationship between classes.
