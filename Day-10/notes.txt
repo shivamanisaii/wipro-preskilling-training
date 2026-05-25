@@ -1,0 +1,45 @@
+DAY 10 JAVA NOTES
+
+1. Java 11 Features
+- String methods
+- HTTP Client API
+- var in lambda
+- Files utility improvements
+
+2. Java 17 Features
+- Sealed Classes
+- Pattern Matching
+- Enhanced Random API
+
+3. Java 21 Features
+- Virtual Threads
+- Structured Concurrency
+- Sequenced Collections
+
+4. Java 23 Features
+- Performance improvements
+- Preview language features
+
+5. Records
+- Immutable data carrier classes.
+
+Syntax:
+record Student(String name, int age){}
+
+6. Sealed Classes
+- Restricts inheritance.
+
+Syntax:
+sealed class Shape permits Circle, Rectangle
+
+7. Pattern Matching
+- Simplifies instanceof checks.
+
+8. Text Blocks
+- Multi-line strings using triple quotes.
+
+9. Switch Expressions
+- Arrow based switch syntax.
+
+10. Virtual Threads
+- Lightweight threads introduced for scalability.

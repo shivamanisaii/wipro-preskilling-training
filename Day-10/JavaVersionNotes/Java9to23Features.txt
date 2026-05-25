@@ -1,0 +1,52 @@
+JAVA 9 TO 23 FEATURES
+
+JAVA 9
+- JShell
+- Module System
+- Factory Methods for Collections
+
+JAVA 10
+- var keyword
+
+JAVA 11
+- String API updates
+- HTTP Client API
+
+JAVA 12
+- Switch expressions preview
+
+JAVA 13
+- Text blocks preview
+
+JAVA 14
+- Records preview
+
+JAVA 15
+- Sealed classes preview
+
+JAVA 16
+- Records finalized
+
+JAVA 17
+- Sealed classes finalized
+- Pattern matching improvements
+
+JAVA 18
+- UTF-8 by default
+
+JAVA 19
+- Virtual threads preview
+
+JAVA 20
+- Scoped values
+
+JAVA 21
+- Virtual threads finalized
+- Pattern matching for switch
+
+JAVA 22
+- Foreign Function API improvements
+
+JAVA 23
+- Performance enhancements
+- Preview feature updates
