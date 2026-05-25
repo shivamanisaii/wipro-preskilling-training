@@ -1,0 +1,27 @@
+WRAPPER CLASSES
+
+Primitive Type -> Wrapper Class
+
+int -> Integer
+double -> Double
+char -> Character
+float -> Float
+boolean -> Boolean
+
+BOXING:
+Converting primitive to object.
+
+Example:
+Integer num = Integer.valueOf(10);
+
+UNBOXING:
+Converting object to primitive.
+
+Example:
+int n = num.intValue();
+
+AUTO BOXING:
+Automatic primitive to wrapper conversion.
+
+AUTO UNBOXING:
+Automatic wrapper to primitive conversion.

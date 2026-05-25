@@ -1,0 +1,21 @@
+FUNCTIONAL INTERFACES
+
+1. Consumer
+- Accepts input but returns nothing.
+
+2. Supplier
+- Returns object/value.
+
+3. Predicate
+- Returns boolean value.
+
+4. Function
+- Takes input and returns output.
+
+LAMBDA EXPRESSION SYNTAX
+
+(parameter) -> expression
+
+Examples:
+x -> x*x
+(a,b) -> a+b

@@ -1,0 +1,47 @@
+DAY 06 JAVA NOTES
+
+1. JUnit 5
+- Java testing framework.
+
+2. Assert Methods
+- assertEquals()
+- assertTrue()
+- assertFalse()
+- assertArrayEquals()
+- assertThrows()
+
+3. JUnit Annotations
+- @Test
+- @BeforeEach
+- @BeforeAll
+- @ParameterizedTest
+
+4. Test Suite
+- Used to group multiple test classes.
+
+5. Parameterized Tests
+- Executes same test with multiple inputs.
+
+6. Code Coverage Tools
+- Measures tested code percentage.
+
+7. Wrapper Classes
+- Converts primitive data types into objects.
+
+Examples:
+- Integer
+- Double
+- Character
+- Float
+
+8. Boxing
+- Primitive to Wrapper object.
+
+9. Unboxing
+- Wrapper object to primitive.
+
+10. Auto Boxing
+- Automatic primitive to wrapper conversion.
+
+11. Auto Unboxing
+- Automatic wrapper to primitive conversion.
