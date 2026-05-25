@@ -1,0 +1,48 @@
+DAY 09 JAVA NOTES
+
+1. Thread
+- Lightweight subprocess.
+
+2. Ways to create thread
+- Extending Thread class
+- Implementing Runnable interface
+
+3. start()
+- Starts a new thread.
+
+4. run()
+- Contains thread logic.
+
+5. sleep()
+- Pauses thread execution.
+
+6. join()
+- Waits for thread completion.
+
+7. Synchronization
+- Prevents multiple threads accessing shared resource simultaneously.
+
+8. Synchronized Method
+- Locks entire method.
+
+9. Synchronized Block
+- Locks specific block.
+
+10. Thread Communication
+- wait()
+- notify()
+- notifyAll()
+
+11. Thread Group
+- Group of multiple threads.
+
+12. ExecutorService
+- Manages thread pools.
+
+13. ThreadLocal
+- Separate variable copy for each thread.
+
+14. Thread Priority
+- MIN_PRIORITY = 1
+- NORM_PRIORITY = 5
+- MAX_PRIORITY = 10
