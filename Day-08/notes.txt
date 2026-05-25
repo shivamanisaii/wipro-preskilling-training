@@ -1,0 +1,38 @@
+DAY 08 JAVA NOTES
+
+1. Singleton Pattern
+- Only one object is created.
+- Used for database connections.
+
+2. Factory Pattern
+- Creates objects without exposing creation logic.
+
+3. Observer Pattern
+- One object notifies multiple dependent objects.
+
+4. Builder Pattern
+- Builds complex objects step by step.
+
+5. Prototype Pattern
+- Creates object copies using cloning.
+
+6. Adapter Pattern
+- Connects incompatible interfaces.
+
+7. Decorator Pattern
+- Adds features dynamically.
+
+8. Strategy Pattern
+- Selects algorithm at runtime.
+
+9. Best Practices
+- Loose coupling
+- Reusability
+- Encapsulation
+- Clean code
+
+10. Code Review Concepts
+- Readability
+- Naming conventions
+- Modularity
+- Optimization
