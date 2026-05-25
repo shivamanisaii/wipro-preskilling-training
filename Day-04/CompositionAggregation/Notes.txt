@@ -1,0 +1,15 @@
+COMPOSITION VS AGGREGATION
+
+Composition:
+- Strong relationship
+- Child cannot exist without parent
+
+Example:
+House -> Rooms
+
+Aggregation:
+- Weak relationship
+- Child can exist independently
+
+Example:
+Department -> Teachers

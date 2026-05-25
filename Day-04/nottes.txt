@@ -1,0 +1,50 @@
+DAY 04 JAVA NOTES
+
+1. String
+- Immutable sequence of characters.
+- Stored in String pool.
+
+2. StringBuffer
+- Mutable string object.
+- Used when string modification is needed.
+
+3. Optional Class
+- Avoids NullPointerException.
+- Represents optional values.
+
+4. StringJoiner
+- Used to join multiple strings efficiently.
+
+5. Abstract Class
+- Cannot create objects directly.
+- Can contain abstract and non-abstract methods.
+
+6. Interface
+- Used to achieve abstraction.
+- Supports multiple inheritance.
+
+7. Static Methods
+- Belong to class instead of objects.
+
+8. Default Methods
+- Methods inside interfaces with body.
+
+9. Final Keyword
+- final variable → constant
+- final method → cannot override
+- final class → cannot inherit
+
+10. Packages
+- Used to organize Java classes.
+
+11. Composition
+- Strong HAS-A relationship.
+
+12. Aggregation
+- Weak HAS-A relationship.
+
+13. Method Overloading
+- Same method with different parameters.
+
+14. Method Overriding
+- Child class redefines parent method.
